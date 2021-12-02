@@ -1,3 +1,10 @@
+body{
+    background-color:#b7edbd;
+    background-image: url('coniglio\ fuzzy\ lop.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+}
 .main-title{
-    font-size: 100px;
+    font-size: 200px;
 }
